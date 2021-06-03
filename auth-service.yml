@@ -2,7 +2,7 @@ spring:
   datasource:
     driverClassName: com.mysql.cj.jdbc.Driver
     password: Temp1234
-    url: jdbc:mysql://localhost:3306/olx-users
+    url: jdbc:mysql://localhost:3306/olx-clients    #from olx-users to olx-clients
     username: root
   jpa:
     hibernate:
